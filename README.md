@@ -1,6 +1,6 @@
-# MDB Investment Monitoring Management Tool
+# Major Bank Investment Monitoring Management Tool
 
-A comprehensive investment portfolio monitoring and management system designed for multilateral development banks (MDBs) and institutional investors. This application provides real-time tracking, risk assessment, and performance monitoring for debt and equity investments.
+A comprehensive investment portfolio monitoring and management system designed for multinational large banks and institutional investors. This application provides real-time tracking, risk assessment, and performance monitoring for debt and equity investments.
 
 ## Features
 
